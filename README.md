@@ -21,7 +21,8 @@ Alongside development, I also teach technology because I believe in sharing know
   - Virtual Makeup Try-Ons  
   - Face Recognition  
   - Face-Revive  
-  - Real-Time Background Filtering  
+  - Real-Time Background Filtering
+  - Fire Detection 
 
 ---
 
