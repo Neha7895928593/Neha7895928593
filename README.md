@@ -28,7 +28,8 @@ Alongside development, I also teach technology because I believe in sharing know
 
 ## GitHub Stats
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neha7895928593&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Neha7895928593&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Neha7895928593&theme=radical&hide_border=true)
+
 ---
 
 ## Connect  
