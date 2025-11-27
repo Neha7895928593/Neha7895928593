@@ -16,7 +16,7 @@ Alongside development, I also teach technology because I believe in sharing know
 
 ## Projects  
 - [**Visitor Management System**](https://github.com/Neha7895928593/VMS-Frontend) – A real-time system to manage visitors and track their entry/exit using MERN stack and Socket.io.  
-- [**B2B Datasets**](https://github.com/Neha7895928593/B2B-Database) – A platform to manage business datasets, perform analytics, and generate reports using React.js and Node.js.  
+- [**B2B Datasets**](https://github.com/Neha7895928593/B2B) – A platform to manage business datasets, perform analytics, and generate reports using React.js and Node.js.  
 - **AI Models** – Collection of AI projects:  
   - Virtual Makeup Try-Ons  
   - Face Recognition  
