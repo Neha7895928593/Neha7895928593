@@ -7,22 +7,44 @@ Alongside development, I also teach technology because I believe in sharing know
 ---
 
 ## Skills  
-- **Frontend:** React.js · Next.js · Redux · Tailwind CSS  
+- **Frontend:** React.js · Next.js · Redux · Tailwind CSS . Angular
 - **Backend:** Node.js · Express.js · Flask  
 - **Databases:** MongoDB · PostgreSQL · MySQL  
-- **Others:** REST APIs · Socket.io · Python · Core Java  
+- **Others:** REST APIs · Socket.io · Python · Core Java
 
 ---
 
 ## Projects  
 - [**Visitor Management System**](https://github.com/Neha7895928593/VMS-Frontend) – A real-time system to manage visitors and track their entry/exit using MERN stack and Socket.io.  
-- [**B2B Datasets**](https://github.com/Neha7895928593/B2B) – A platform to manage business datasets, perform analytics, and generate reports using React.js and Node.js.  
+- [**B2B Datasets**](https://github.com/Neha7895928593/B2B) – A platform to manage business datasets, perform analytics, and generate reports using React.js and Node.js.
 - **AI Models** – Collection of AI projects:  
   - Virtual Makeup Try-Ons  
   - Face Recognition  
   - Face-Revive  
   - Real-Time Background Filtering
-  - Fire Detection 
+  - Fire Detection
+  
+---
+
+## Professional Contributions  
+
+I have contributed to multiple real-world, production-level applications as part of my professional work.
+
+**Key areas of contribution include:**
+- Workforce and attendance management systems  
+- Business dashboards and internal admin panels  
+- REST API design, development, and integration  
+- Real-time features using Socket.io  
+- Bug fixing, performance optimization, and feature enhancements  
+
+**Microservices & Device Communication:**
+- Designed and worked on microservices that communicate directly with hardware devices  
+- Implemented secure device-to-server communication workflows  
+- Built APIs for real-time data ingestion and processing  
+- Worked with asynchronous messaging and event-driven architectures  
+- Debugged and optimized services handling high-frequency device data  
+
+> *Most of these projects are company-owned and not publicly accessible.*
 
 ---
 
